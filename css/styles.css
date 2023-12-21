@@ -1,16 +1,15 @@
-.a {
+a {
     text-decoration: none;
 }
 
-.li {
-    list-style-type: none;
+ul {
+    list-style: none;
 }
 
 body {
     color: #434455;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    font-weight: 500;
     line-height: 1.5;
     background-color: #FFFFFF;
 }
@@ -177,9 +176,8 @@ background-color: #2E2F42;
         text-transform: capitalize;
 }
 
-.section-portfolio-list {
-    background-color: #E7E9FC;
-}
+/* .section-portfolio-list {
+} */
 
 .section-portfolio-item {
     background-color: #FFF;
