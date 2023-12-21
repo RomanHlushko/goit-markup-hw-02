@@ -1,12 +1,3 @@
-.body {
-    color: #434455;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    background-color: #FFFFFF;
-}
-
 .a {
     text-decoration: none;
 }
@@ -15,7 +6,16 @@
     list-style-type: none;
 }
 
-.header{}
+body {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    background-color: #FFFFFF;
+}
+
+/* .header{} */
 .header-logo{
     color: #4D5AE5;
         font-family: Raleway, sans-serif;
@@ -38,8 +38,8 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.header-menu-list{
-}
+/* .header-menu-list{
+} */
 
 .header-navigation {
     color: #2E2F42;
@@ -53,9 +53,9 @@
     font-style: normal
 }
 
-.address-menu-list {}
+/* .address-menu-list {}
 
-.address-menu-item {}
+.address-menu-item {} */
 
 .address-link {
     color: #434455;
@@ -69,7 +69,7 @@ color: #404bbf;
 .address-link:active {
 color: #404bbf;
 }
-.main {}
+/* .main {} */
 
 .hero {
 background-color: #2E2F42;
@@ -103,11 +103,11 @@ background-color: #2E2F42;
     background-color: #FFF;
 }
 
-.section-content-name {}
+/* .section-content-name {}
 
 .section-content-list {}
 
-.section-content-list-item {}
+.section-content-list-item {} */
 
 .section-content-list-header {
     color: #2E2F42;
@@ -138,7 +138,7 @@ background-color: #2E2F42;
     text-transform: capitalize;
 }
 
-.section-our-team-list {}
+/* .section-our-team-list {} */
 
 .section-our-team-item {
         border-radius: 0px 0px 4px 4px;
@@ -209,7 +209,15 @@ background-color: #2E2F42;
     background-color: #2E2F42;
 }
 
-.header-logo {}
+.studio {
+    color: #F4F4FD;
+        font-family: Raleway, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
 
 .footer-paragraph {
     color: #F4F4FD;
