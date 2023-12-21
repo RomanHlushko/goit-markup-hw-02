@@ -143,9 +143,7 @@ background-color: #2E2F42;
 /* .section-our-team-list {} */
 
 .section-our-team-item {
-        border-radius: 0px 0px 4px 4px;
         background: #FFF;
-        box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .section-our-team-photo {
@@ -210,15 +208,18 @@ background-color: #2E2F42;
 .footer {
     background-color: #2E2F42;
 }
-
-.studio {
+.footer-logo{
 color: #4D5AE5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;}
+    text-transform: uppercase;
+}
+.studio {
+color: #f4f4fd;
+}
 
 .footer-paragraph {
     color: #F4F4FD;
