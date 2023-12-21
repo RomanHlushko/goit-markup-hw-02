@@ -25,11 +25,9 @@ body {
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-.header-navigation:hover{
-    color: #404BBF;
-}
+.header-navigation:hover,
 .header-navigation:focus{
-        color: #404BBF;
+    color: #404BBF;
 }
 .raleway{
     color: #2E2F42;
@@ -65,10 +63,8 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.address-link:hover{
-color: #404bbf;
-}
-.address-link:active {
+.address-link:hover,
+.address-link:focus{
 color: #404bbf;
 }
 /* .main {} */
